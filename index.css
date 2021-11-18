@@ -31,3 +31,108 @@ html {
     background-color: gray;
     height: 480px;
 }
+#images {
+    border: solid gray;
+    height: fit-content;
+    padding: 10px 10px 10px 10px;
+    background-color: gray;
+}
+.section1 {
+    display: flex;
+    height: 500px;
+    background-color: grey;
+    border-bottom: rgb(2, 31, 2);
+    border-width: 3px;
+    background-color: gray;
+    background-size: cover;
+}
+.section1 .images {
+    margin-top: 30px;
+    margin-left: 0px;
+    display: flex;
+}
+.section1 #health {
+    text-align: center;
+}
+.serve1 h1 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+.services {
+    display: flex;
+}
+.services #part1 {
+    background-image: url("images/mental1.peg");
+    background-size: cover;
+    text-align: center;
+    padding-top: 70px;
+    color: white;
+    font-size: 20px;
+    margin-left: 80px;
+    border: solid white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px 0px;
+    box-shadow: white;
+    
+}
+#online {
+    border: solid white;
+    border-radius: 10px;
+    text-align: center;
+    width: 350px;
+    margin-left: 30px;
+    box-shadow: 5px 5px 0px 0px;
+    box-shadow: white;
+}
+#online p{
+    color: rgb(2, 31, 2);
+    font-size: 15px;
+}
+#probono {
+    border: solid white;
+    border-radius: 10px;
+    text-align: center; 
+    width: 350px;
+    margin-left: 30px;
+    box-shadow: 5px 5px 0px 0px;
+    box-shadow: white;
+}
+#probono p{
+    color: rgb(2, 31, 2);
+    font-size: 15px;
+}
+#physical {
+    border: solid white;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 150px;
+    width: 400px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 0px 0px;
+    box-shadow: white;
+}
+#physical p{
+    color: rgb(2, 31, 2);
+    font-size: 15px;
+}
+#retreats {
+    border: solid white;
+    border-radius: 10px;
+    text-align: center;
+    width: 470px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 0px 0px;
+    box-shadow: white;
+}
+#retreats p {
+    color: rgb(2, 31, 2);
+    font-size: 15px;
+}
+#serve2 {
+    display: flex;
+    align-items: center;
+}
