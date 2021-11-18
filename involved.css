@@ -24,6 +24,9 @@ html{
   ul>a:hover{
     text-decoration:underline 3px solid white;
 }
+ul>a:visited{
+    color: blueviolet;
+}
 .campaigns>h4{
     color:  rgb(2, 31, 2);
     text-align: center;
