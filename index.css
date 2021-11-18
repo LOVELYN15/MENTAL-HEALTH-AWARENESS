@@ -1,0 +1,29 @@
+html{
+  font-family: "Risque";
+}
+.header{
+  display: flex;
+  background-color: rgb(2, 31, 2);
+  height: 100px;
+  color: white;
+  font-size: large;
+}
+#logo{
+  display: flex;
+}
+#logo h5{
+  color: white;
+}
+nav ul{
+  margin: 30px;
+}
+nav ul>a{
+  color: white;
+  text-decoration: none;
+  justify-content: space-around;
+  padding: 50px;
+ font-size: larger;
+}
+ul a:hover{
+  text-decoration: underline 3px solid white;
+}
