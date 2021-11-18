@@ -72,3 +72,18 @@ box-shadow: 5px 5px 10px solid grey;
 #abuse>a:hover{
   text-decoration: underline 3px rgb(2, 31, 2);
 }
+.family-t{
+  display: flex;
+  justify-content: space-around;
+  padding: 40px;
+  line-height: 30px;
+  font-size: x-large;
+}
+#issues{
+  background-color: grey;
+  width: 400px;
+  border-radius: 20px;
+  align-items: center;
+  padding: 50px;
+  box-shadow: 5px 5px 20px grey;
+}
