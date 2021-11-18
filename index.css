@@ -87,3 +87,10 @@ box-shadow: 5px 5px 10px solid grey;
   padding: 50px;
   box-shadow: 5px 5px 20px grey;
 }
+footer{
+  background-color: rgb(2, 31, 2);
+  height: 70px;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
