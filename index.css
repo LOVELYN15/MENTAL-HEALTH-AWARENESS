@@ -195,3 +195,47 @@ html {
     color: rgb(2, 31, 2);
     font-size: 15px;
 }
+.section3 {
+    display: flex;
+    justify-content: space-between;
+  
+    border: solid rgb(2, 31, 2);
+    border-width: 2px 0px 0px 0px;
+}
+#partners h3{
+   text-align: center;
+   font-size: 20px;
+}
+#donors {
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+span :hover {
+    height: 150px;
+    width: 200px;
+   }
+      
+#contact {
+    margin-right: 30px;
+    border: solid rgb(2, 31, 2);
+    border-width: 0px 0px 0px 10px;
+    width: 350px;
+    padding-left: 70px;
+}
+#contact h3 {
+    font-size: 20px;
+    text-shadow: rgb(219, 217, 217);
+}
+#contact p{
+    color: rgb(2, 31, 2);
+    font-size: 15px;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(2, 31, 2);
+    height: 20px;
+    padding: 25px;
+    color: white;
+}
+
