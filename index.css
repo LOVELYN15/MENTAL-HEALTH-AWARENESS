@@ -27,3 +27,48 @@ nav ul>a{
 ul a:hover{
   text-decoration: underline 3px solid white;
 }
+.line{
+  border: 3px solid rgb(2, 31, 2);
+}
+.counselling{
+  display: flex;
+  height: 300px;
+  justify-content: space-around;
+  padding: 20px;
+}
+#crisis{
+  line-height: 30px;
+}
+#publication>img{
+border: 4px;
+box-shadow: 5px 5px 10px solid grey;
+}
+#publication button{
+  text-decoration: underline 3px solid rgb(2, 31, 2);
+  border: 0;
+  padding: 10px;
+  line-height: 15px;
+  margin: 100px;
+  border-radius: 15px;
+  width: 100px;
+}
+#line{
+  border: 6px solid rgb(2, 31, 2);
+}
+.child-abuse{
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+}
+#abuse ol>a{
+  text-decoration: none;
+  color: black;
+  font-size: x-large;
+  display: block;
+  text-align: center;
+  line-height: 30px;
+  
+}
+#abuse>a:hover{
+  text-decoration: underline 3px rgb(2, 31, 2);
+}
